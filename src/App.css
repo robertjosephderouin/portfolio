@@ -1,0 +1,10 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #A2C7E5;
+}
+
+main {
+    padding: 10px;
+    text-shadow: 3px 2px 3px rgba(150, 150, 150, 1);
+}

@@ -2,4 +2,23 @@
     box-sizing: border-box;
     border: 3px solid black;
     padding: 10px;
+    position: relative;
+    padding-bottom: 15px;
   }
+
+  .css-box-shadow{
+    /*start ------------*/
+    width: [object Object]px; 
+    height: [object Object]px; 
+    background: #C1BDDB; 
+    border: solid #BDBDBD 1px; 
+    box-shadow: 4px 8px 20px rgba(0, 0, 0, 0.5)  ; 
+    -webkit-box-shadow: 4px 8px 20px rgba(0, 0, 0, 0.5)  ; 
+    -moz-box-shadow: 4px 8px 20px rgba(0, 0, 0, 0.5)  ; 
+  }
+
+.visit{
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+}
